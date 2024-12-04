@@ -1,0 +1,2116 @@
+{
+    "filters": {
+        "competitions": "FL1",
+        "permission": "TIER_ONE",
+        "limit": 100
+    },
+    "resultSet": {
+        "count": 34,
+        "competitions": "FL1",
+        "first": "2024-08-17",
+        "last": "2025-05-18",
+        "played": 13,
+        "wins": 10,
+        "draws": 22,
+        "losses": 8
+    },
+    "matches": [
+        {
+            "area": {
+                "id": 2081,
+                "name": "France",
+                "code": "FRA",
+                "flag": "https://crests.football-data.org/773.svg"
+            },
+            "competition": {
+                "id": 2015,
+                "name": "Ligue 1",
+                "code": "FL1",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/FL1.png"
+            },
+            "season": {
+                "id": 2290,
+                "startDate": "2024-08-18",
+                "endDate": "2025-05-18",
+                "currentMatchday": 14,
+                "winner": null
+            },
+            "id": 497955,
+            "utcDate": "2024-08-17T19:00:00Z",
+            "status": "FINISHED",
+            "matchday": 1,
+            "stage": "REGULAR_SEASON",
+            "group": null,
+            "lastUpdated": "2024-12-04T15:21:02Z",
+            "homeTeam": {
+                "id": 548,
+                "name": "AS Monaco FC",
+                "shortName": "Monaco",
+                "tla": "ASM",
+                "crest": "https://crests.football-data.org/548.png"
+            },
+            "awayTeam": {
+                "id": 527,
+                "name": "AS Saint-\u00c9tienne",
+                "shortName": "Saint-\u00c9tienne",
+                "tla": "ASS",
+                "crest": "https://crests.football-data.org/527.png"
+            },
+            "score": {
+                "winner": "HOME_TEAM",
+                "duration": "REGULAR",
+                "fullTime": {
+                    "home": 1,
+                    "away": 0
+                },
+                "halfTime": {
+                    "home": 1,
+                    "away": 0
+                }
+            },
+            "odds": {
+                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+            },
+            "referees": [
+                {
+                    "id": 9374,
+                    "name": "Cl\u00e9ment Turpin",
+                    "type": "REFEREE",
+                    "nationality": "France"
+                }
+            ]
+        },
+        {
+            "area": {
+                "id": 2081,
+                "name": "France",
+                "code": "FRA",
+                "flag": "https://crests.football-data.org/773.svg"
+            },
+            "competition": {
+                "id": 2015,
+                "name": "Ligue 1",
+                "code": "FL1",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/FL1.png"
+            },
+            "season": {
+                "id": 2290,
+                "startDate": "2024-08-18",
+                "endDate": "2025-05-18",
+                "currentMatchday": 14,
+                "winner": null
+            },
+            "id": 497963,
+            "utcDate": "2024-08-24T19:00:00Z",
+            "status": "FINISHED",
+            "matchday": 2,
+            "stage": "REGULAR_SEASON",
+            "group": null,
+            "lastUpdated": "2024-12-04T15:21:02Z",
+            "homeTeam": {
+                "id": 527,
+                "name": "AS Saint-\u00c9tienne",
+                "shortName": "Saint-\u00c9tienne",
+                "tla": "ASS",
+                "crest": "https://crests.football-data.org/527.png"
+            },
+            "awayTeam": {
+                "id": 533,
+                "name": "Le Havre AC",
+                "shortName": "Le Havre",
+                "tla": "HAC",
+                "crest": "https://crests.football-data.org/533.png"
+            },
+            "score": {
+                "winner": "AWAY_TEAM",
+                "duration": "REGULAR",
+                "fullTime": {
+                    "home": 0,
+                    "away": 2
+                },
+                "halfTime": {
+                    "home": 0,
+                    "away": 0
+                }
+            },
+            "odds": {
+                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+            },
+            "referees": [
+                {
+                    "id": 57068,
+                    "name": "Florent Batta",
+                    "type": "REFEREE",
+                    "nationality": "France"
+                }
+            ]
+        },
+        {
+            "area": {
+                "id": 2081,
+                "name": "France",
+                "code": "FRA",
+                "flag": "https://crests.football-data.org/773.svg"
+            },
+            "competition": {
+                "id": 2015,
+                "name": "Ligue 1",
+                "code": "FL1",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/FL1.png"
+            },
+            "season": {
+                "id": 2290,
+                "startDate": "2024-08-18",
+                "endDate": "2025-05-18",
+                "currentMatchday": 14,
+                "winner": null
+            },
+            "id": 497971,
+            "utcDate": "2024-08-31T15:00:00Z",
+            "status": "FINISHED",
+            "matchday": 3,
+            "stage": "REGULAR_SEASON",
+            "group": null,
+            "lastUpdated": "2024-12-04T15:21:02Z",
+            "homeTeam": {
+                "id": 512,
+                "name": "Stade Brestois 29",
+                "shortName": "Brest",
+                "tla": "BRE",
+                "crest": "https://crests.football-data.org/512.png"
+            },
+            "awayTeam": {
+                "id": 527,
+                "name": "AS Saint-\u00c9tienne",
+                "shortName": "Saint-\u00c9tienne",
+                "tla": "ASS",
+                "crest": "https://crests.football-data.org/527.png"
+            },
+            "score": {
+                "winner": "HOME_TEAM",
+                "duration": "REGULAR",
+                "fullTime": {
+                    "home": 4,
+                    "away": 0
+                },
+                "halfTime": {
+                    "home": 2,
+                    "away": 0
+                }
+            },
+            "odds": {
+                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+            },
+            "referees": [
+                {
+                    "id": 64829,
+                    "name": "Ga\u00ebl Angoula",
+                    "type": "REFEREE",
+                    "nationality": "France"
+                }
+            ]
+        },
+        {
+            "area": {
+                "id": 2081,
+                "name": "France",
+                "code": "FRA",
+                "flag": "https://crests.football-data.org/773.svg"
+            },
+            "competition": {
+                "id": 2015,
+                "name": "Ligue 1",
+                "code": "FL1",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/FL1.png"
+            },
+            "season": {
+                "id": 2290,
+                "startDate": "2024-08-18",
+                "endDate": "2025-05-18",
+                "currentMatchday": 14,
+                "winner": null
+            },
+            "id": 497984,
+            "utcDate": "2024-09-13T18:45:00Z",
+            "status": "FINISHED",
+            "matchday": 4,
+            "stage": "REGULAR_SEASON",
+            "group": null,
+            "lastUpdated": "2024-12-04T15:21:02Z",
+            "homeTeam": {
+                "id": 527,
+                "name": "AS Saint-\u00c9tienne",
+                "shortName": "Saint-\u00c9tienne",
+                "tla": "ASS",
+                "crest": "https://crests.football-data.org/527.png"
+            },
+            "awayTeam": {
+                "id": 521,
+                "name": "Lille OSC",
+                "shortName": "Lille",
+                "tla": "LIL",
+                "crest": "https://crests.football-data.org/521.png"
+            },
+            "score": {
+                "winner": "HOME_TEAM",
+                "duration": "REGULAR",
+                "fullTime": {
+                    "home": 1,
+                    "away": 0
+                },
+                "halfTime": {
+                    "home": 1,
+                    "away": 0
+                }
+            },
+            "odds": {
+                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+            },
+            "referees": [
+                {
+                    "id": 43918,
+                    "name": "Fran\u00e7ois Letexier",
+                    "type": "REFEREE",
+                    "nationality": "France"
+                }
+            ]
+        },
+        {
+            "area": {
+                "id": 2081,
+                "name": "France",
+                "code": "FRA",
+                "flag": "https://crests.football-data.org/773.svg"
+            },
+            "competition": {
+                "id": 2015,
+                "name": "Ligue 1",
+                "code": "FL1",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/FL1.png"
+            },
+            "season": {
+                "id": 2290,
+                "startDate": "2024-08-18",
+                "endDate": "2025-05-18",
+                "currentMatchday": 14,
+                "winner": null
+            },
+            "id": 497988,
+            "utcDate": "2024-09-20T18:45:00Z",
+            "status": "FINISHED",
+            "matchday": 5,
+            "stage": "REGULAR_SEASON",
+            "group": null,
+            "lastUpdated": "2024-12-04T15:21:02Z",
+            "homeTeam": {
+                "id": 522,
+                "name": "OGC Nice",
+                "shortName": "Nice",
+                "tla": "NIC",
+                "crest": "https://crests.football-data.org/522.png"
+            },
+            "awayTeam": {
+                "id": 527,
+                "name": "AS Saint-\u00c9tienne",
+                "shortName": "Saint-\u00c9tienne",
+                "tla": "ASS",
+                "crest": "https://crests.football-data.org/527.png"
+            },
+            "score": {
+                "winner": "HOME_TEAM",
+                "duration": "REGULAR",
+                "fullTime": {
+                    "home": 8,
+                    "away": 0
+                },
+                "halfTime": {
+                    "home": 6,
+                    "away": 0
+                }
+            },
+            "odds": {
+                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+            },
+            "referees": [
+                {
+                    "id": 57039,
+                    "name": "Thomas L\u00e9onard",
+                    "type": "REFEREE",
+                    "nationality": "France"
+                }
+            ]
+        },
+        {
+            "area": {
+                "id": 2081,
+                "name": "France",
+                "code": "FRA",
+                "flag": "https://crests.football-data.org/773.svg"
+            },
+            "competition": {
+                "id": 2015,
+                "name": "Ligue 1",
+                "code": "FL1",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/FL1.png"
+            },
+            "season": {
+                "id": 2290,
+                "startDate": "2024-08-18",
+                "endDate": "2025-05-18",
+                "currentMatchday": 14,
+                "winner": null
+            },
+            "id": 498000,
+            "utcDate": "2024-09-29T15:00:00Z",
+            "status": "FINISHED",
+            "matchday": 6,
+            "stage": "REGULAR_SEASON",
+            "group": null,
+            "lastUpdated": "2024-12-04T15:21:02Z",
+            "homeTeam": {
+                "id": 543,
+                "name": "FC Nantes",
+                "shortName": "Nantes",
+                "tla": "NAN",
+                "crest": "https://crests.football-data.org/543.png"
+            },
+            "awayTeam": {
+                "id": 527,
+                "name": "AS Saint-\u00c9tienne",
+                "shortName": "Saint-\u00c9tienne",
+                "tla": "ASS",
+                "crest": "https://crests.football-data.org/527.png"
+            },
+            "score": {
+                "winner": "DRAW",
+                "duration": "REGULAR",
+                "fullTime": {
+                    "home": 2,
+                    "away": 2
+                },
+                "halfTime": {
+                    "home": 1,
+                    "away": 0
+                }
+            },
+            "odds": {
+                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+            },
+            "referees": [
+                {
+                    "id": 57501,
+                    "name": "Abdelatif Kherradji",
+                    "type": "REFEREE",
+                    "nationality": "France"
+                }
+            ]
+        },
+        {
+            "area": {
+                "id": 2081,
+                "name": "France",
+                "code": "FRA",
+                "flag": "https://crests.football-data.org/773.svg"
+            },
+            "competition": {
+                "id": 2015,
+                "name": "Ligue 1",
+                "code": "FL1",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/FL1.png"
+            },
+            "season": {
+                "id": 2290,
+                "startDate": "2024-08-18",
+                "endDate": "2025-05-18",
+                "currentMatchday": 14,
+                "winner": null
+            },
+            "id": 498008,
+            "utcDate": "2024-10-05T15:00:00Z",
+            "status": "FINISHED",
+            "matchday": 7,
+            "stage": "REGULAR_SEASON",
+            "group": null,
+            "lastUpdated": "2024-12-04T15:21:02Z",
+            "homeTeam": {
+                "id": 527,
+                "name": "AS Saint-\u00c9tienne",
+                "shortName": "Saint-\u00c9tienne",
+                "tla": "ASS",
+                "crest": "https://crests.football-data.org/527.png"
+            },
+            "awayTeam": {
+                "id": 519,
+                "name": "AJ Auxerre",
+                "shortName": "Auxerre",
+                "tla": "AJA",
+                "crest": "https://crests.football-data.org/519.png"
+            },
+            "score": {
+                "winner": "HOME_TEAM",
+                "duration": "REGULAR",
+                "fullTime": {
+                    "home": 3,
+                    "away": 1
+                },
+                "halfTime": {
+                    "home": 1,
+                    "away": 0
+                }
+            },
+            "odds": {
+                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+            },
+            "referees": [
+                {
+                    "id": 57054,
+                    "name": "Mathieu Vernice",
+                    "type": "REFEREE",
+                    "nationality": "France"
+                }
+            ]
+        },
+        {
+            "area": {
+                "id": 2081,
+                "name": "France",
+                "code": "FRA",
+                "flag": "https://crests.football-data.org/773.svg"
+            },
+            "competition": {
+                "id": 2015,
+                "name": "Ligue 1",
+                "code": "FL1",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/FL1.png"
+            },
+            "season": {
+                "id": 2290,
+                "startDate": "2024-08-18",
+                "endDate": "2025-05-18",
+                "currentMatchday": 14,
+                "winner": null
+            },
+            "id": 498020,
+            "utcDate": "2024-10-19T17:00:00Z",
+            "status": "FINISHED",
+            "matchday": 8,
+            "stage": "REGULAR_SEASON",
+            "group": null,
+            "lastUpdated": "2024-12-04T15:21:02Z",
+            "homeTeam": {
+                "id": 527,
+                "name": "AS Saint-\u00c9tienne",
+                "shortName": "Saint-\u00c9tienne",
+                "tla": "ASS",
+                "crest": "https://crests.football-data.org/527.png"
+            },
+            "awayTeam": {
+                "id": 546,
+                "name": "Racing Club de Lens",
+                "shortName": "RC Lens",
+                "tla": "RCL",
+                "crest": "https://crests.football-data.org/546.png"
+            },
+            "score": {
+                "winner": "AWAY_TEAM",
+                "duration": "REGULAR",
+                "fullTime": {
+                    "home": 0,
+                    "away": 2
+                },
+                "halfTime": {
+                    "home": 0,
+                    "away": 1
+                }
+            },
+            "odds": {
+                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+            },
+            "referees": [
+                {
+                    "id": 57087,
+                    "name": "Romain Lissorgue",
+                    "type": "REFEREE",
+                    "nationality": "France"
+                }
+            ]
+        },
+        {
+            "area": {
+                "id": 2081,
+                "name": "France",
+                "code": "FRA",
+                "flag": "https://crests.football-data.org/773.svg"
+            },
+            "competition": {
+                "id": 2015,
+                "name": "Ligue 1",
+                "code": "FL1",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/FL1.png"
+            },
+            "season": {
+                "id": 2290,
+                "startDate": "2024-08-18",
+                "endDate": "2025-05-18",
+                "currentMatchday": 14,
+                "winner": null
+            },
+            "id": 498030,
+            "utcDate": "2024-10-26T15:00:00Z",
+            "status": "FINISHED",
+            "matchday": 9,
+            "stage": "REGULAR_SEASON",
+            "group": null,
+            "lastUpdated": "2024-12-04T15:21:02Z",
+            "homeTeam": {
+                "id": 532,
+                "name": "Angers SCO",
+                "shortName": "Angers SCO",
+                "tla": "ANG",
+                "crest": "https://crests.football-data.org/532.png"
+            },
+            "awayTeam": {
+                "id": 527,
+                "name": "AS Saint-\u00c9tienne",
+                "shortName": "Saint-\u00c9tienne",
+                "tla": "ASS",
+                "crest": "https://crests.football-data.org/527.png"
+            },
+            "score": {
+                "winner": "HOME_TEAM",
+                "duration": "REGULAR",
+                "fullTime": {
+                    "home": 4,
+                    "away": 2
+                },
+                "halfTime": {
+                    "home": 2,
+                    "away": 1
+                }
+            },
+            "odds": {
+                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+            },
+            "referees": [
+                {
+                    "id": 64781,
+                    "name": "Marc Bollengier",
+                    "type": "REFEREE",
+                    "nationality": "France"
+                }
+            ]
+        },
+        {
+            "area": {
+                "id": 2081,
+                "name": "France",
+                "code": "FRA",
+                "flag": "https://crests.football-data.org/773.svg"
+            },
+            "competition": {
+                "id": 2015,
+                "name": "Ligue 1",
+                "code": "FL1",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/FL1.png"
+            },
+            "season": {
+                "id": 2290,
+                "startDate": "2024-08-18",
+                "endDate": "2025-05-18",
+                "currentMatchday": 14,
+                "winner": null
+            },
+            "id": 498038,
+            "utcDate": "2024-11-02T20:00:00Z",
+            "status": "FINISHED",
+            "matchday": 10,
+            "stage": "REGULAR_SEASON",
+            "group": null,
+            "lastUpdated": "2024-12-04T15:21:02Z",
+            "homeTeam": {
+                "id": 527,
+                "name": "AS Saint-\u00c9tienne",
+                "shortName": "Saint-\u00c9tienne",
+                "tla": "ASS",
+                "crest": "https://crests.football-data.org/527.png"
+            },
+            "awayTeam": {
+                "id": 576,
+                "name": "RC Strasbourg Alsace",
+                "shortName": "Strasbourg",
+                "tla": "RC ",
+                "crest": "https://crests.football-data.org/576.png"
+            },
+            "score": {
+                "winner": "HOME_TEAM",
+                "duration": "REGULAR",
+                "fullTime": {
+                    "home": 2,
+                    "away": 0
+                },
+                "halfTime": {
+                    "home": 0,
+                    "away": 0
+                }
+            },
+            "odds": {
+                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+            },
+            "referees": [
+                {
+                    "id": 57092,
+                    "name": "Eric Wattellier",
+                    "type": "REFEREE",
+                    "nationality": "France"
+                }
+            ]
+        },
+        {
+            "area": {
+                "id": 2081,
+                "name": "France",
+                "code": "FRA",
+                "flag": "https://crests.football-data.org/773.svg"
+            },
+            "competition": {
+                "id": 2015,
+                "name": "Ligue 1",
+                "code": "FL1",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/FL1.png"
+            },
+            "season": {
+                "id": 2290,
+                "startDate": "2024-08-18",
+                "endDate": "2025-05-18",
+                "currentMatchday": 14,
+                "winner": null
+            },
+            "id": 498042,
+            "utcDate": "2024-11-10T19:45:00Z",
+            "status": "FINISHED",
+            "matchday": 11,
+            "stage": "REGULAR_SEASON",
+            "group": null,
+            "lastUpdated": "2024-12-04T15:21:02Z",
+            "homeTeam": {
+                "id": 523,
+                "name": "Olympique Lyonnais",
+                "shortName": "Olympique Lyon",
+                "tla": "LYO",
+                "crest": "https://crests.football-data.org/523.png"
+            },
+            "awayTeam": {
+                "id": 527,
+                "name": "AS Saint-\u00c9tienne",
+                "shortName": "Saint-\u00c9tienne",
+                "tla": "ASS",
+                "crest": "https://crests.football-data.org/527.png"
+            },
+            "score": {
+                "winner": "HOME_TEAM",
+                "duration": "REGULAR",
+                "fullTime": {
+                    "home": 1,
+                    "away": 0
+                },
+                "halfTime": {
+                    "home": 1,
+                    "away": 0
+                }
+            },
+            "odds": {
+                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+            },
+            "referees": [
+                {
+                    "id": 57042,
+                    "name": "Willy Delajod",
+                    "type": "REFEREE",
+                    "nationality": "France"
+                }
+            ]
+        },
+        {
+            "area": {
+                "id": 2081,
+                "name": "France",
+                "code": "FRA",
+                "flag": "https://crests.football-data.org/773.svg"
+            },
+            "competition": {
+                "id": 2015,
+                "name": "Ligue 1",
+                "code": "FL1",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/FL1.png"
+            },
+            "season": {
+                "id": 2290,
+                "startDate": "2024-08-18",
+                "endDate": "2025-05-18",
+                "currentMatchday": 14,
+                "winner": null
+            },
+            "id": 498053,
+            "utcDate": "2024-11-23T18:00:00Z",
+            "status": "FINISHED",
+            "matchday": 12,
+            "stage": "REGULAR_SEASON",
+            "group": null,
+            "lastUpdated": "2024-12-04T15:21:02Z",
+            "homeTeam": {
+                "id": 527,
+                "name": "AS Saint-\u00c9tienne",
+                "shortName": "Saint-\u00c9tienne",
+                "tla": "ASS",
+                "crest": "https://crests.football-data.org/527.png"
+            },
+            "awayTeam": {
+                "id": 518,
+                "name": "Montpellier HSC",
+                "shortName": "Montpellier",
+                "tla": "MON",
+                "crest": "https://crests.football-data.org/518.png"
+            },
+            "score": {
+                "winner": "HOME_TEAM",
+                "duration": "REGULAR",
+                "fullTime": {
+                    "home": 1,
+                    "away": 0
+                },
+                "halfTime": {
+                    "home": 0,
+                    "away": 0
+                }
+            },
+            "odds": {
+                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+            },
+            "referees": [
+                {
+                    "id": 57068,
+                    "name": "Florent Batta",
+                    "type": "REFEREE",
+                    "nationality": "France"
+                }
+            ]
+        },
+        {
+            "area": {
+                "id": 2081,
+                "name": "France",
+                "code": "FRA",
+                "flag": "https://crests.football-data.org/773.svg"
+            },
+            "competition": {
+                "id": 2015,
+                "name": "Ligue 1",
+                "code": "FL1",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/FL1.png"
+            },
+            "season": {
+                "id": 2290,
+                "startDate": "2024-08-18",
+                "endDate": "2025-05-18",
+                "currentMatchday": 14,
+                "winner": null
+            },
+            "id": 498060,
+            "utcDate": "2024-11-30T16:00:00Z",
+            "status": "FINISHED",
+            "matchday": 13,
+            "stage": "REGULAR_SEASON",
+            "group": null,
+            "lastUpdated": "2024-12-04T15:21:02Z",
+            "homeTeam": {
+                "id": 529,
+                "name": "Stade Rennais FC 1901",
+                "shortName": "Stade Rennais",
+                "tla": "REN",
+                "crest": "https://crests.football-data.org/529.png"
+            },
+            "awayTeam": {
+                "id": 527,
+                "name": "AS Saint-\u00c9tienne",
+                "shortName": "Saint-\u00c9tienne",
+                "tla": "ASS",
+                "crest": "https://crests.football-data.org/527.png"
+            },
+            "score": {
+                "winner": "HOME_TEAM",
+                "duration": "REGULAR",
+                "fullTime": {
+                    "home": 5,
+                    "away": 0
+                },
+                "halfTime": {
+                    "home": 2,
+                    "away": 0
+                }
+            },
+            "odds": {
+                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+            },
+            "referees": [
+                {
+                    "id": 64781,
+                    "name": "Marc Bollengier",
+                    "type": "REFEREE",
+                    "nationality": "France"
+                }
+            ]
+        },
+        {
+            "area": {
+                "id": 2081,
+                "name": "France",
+                "code": "FRA",
+                "flag": "https://crests.football-data.org/773.svg"
+            },
+            "competition": {
+                "id": 2015,
+                "name": "Ligue 1",
+                "code": "FL1",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/FL1.png"
+            },
+            "season": {
+                "id": 2290,
+                "startDate": "2024-08-18",
+                "endDate": "2025-05-18",
+                "currentMatchday": 14,
+                "winner": null
+            },
+            "id": 498070,
+            "utcDate": "2024-12-08T19:45:00Z",
+            "status": "TIMED",
+            "matchday": 14,
+            "stage": "REGULAR_SEASON",
+            "group": null,
+            "lastUpdated": "2024-12-02T01:32:04Z",
+            "homeTeam": {
+                "id": 527,
+                "name": "AS Saint-\u00c9tienne",
+                "shortName": "Saint-\u00c9tienne",
+                "tla": "ASS",
+                "crest": "https://crests.football-data.org/527.png"
+            },
+            "awayTeam": {
+                "id": 516,
+                "name": "Olympique de Marseille",
+                "shortName": "Marseille",
+                "tla": "MAR",
+                "crest": "https://crests.football-data.org/516.png"
+            },
+            "score": {
+                "winner": null,
+                "duration": "REGULAR",
+                "fullTime": {
+                    "home": null,
+                    "away": null
+                },
+                "halfTime": {
+                    "home": null,
+                    "away": null
+                }
+            },
+            "odds": {
+                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+            },
+            "referees": []
+        },
+        {
+            "area": {
+                "id": 2081,
+                "name": "France",
+                "code": "FRA",
+                "flag": "https://crests.football-data.org/773.svg"
+            },
+            "competition": {
+                "id": 2015,
+                "name": "Ligue 1",
+                "code": "FL1",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/FL1.png"
+            },
+            "season": {
+                "id": 2290,
+                "startDate": "2024-08-18",
+                "endDate": "2025-05-18",
+                "currentMatchday": 14,
+                "winner": null
+            },
+            "id": 498081,
+            "utcDate": "2024-12-13T19:45:00Z",
+            "status": "TIMED",
+            "matchday": 15,
+            "stage": "REGULAR_SEASON",
+            "group": null,
+            "lastUpdated": "2024-11-19T10:21:00Z",
+            "homeTeam": {
+                "id": 511,
+                "name": "Toulouse FC",
+                "shortName": "Toulouse",
+                "tla": "TOU",
+                "crest": "https://crests.football-data.org/511.png"
+            },
+            "awayTeam": {
+                "id": 527,
+                "name": "AS Saint-\u00c9tienne",
+                "shortName": "Saint-\u00c9tienne",
+                "tla": "ASS",
+                "crest": "https://crests.football-data.org/527.png"
+            },
+            "score": {
+                "winner": null,
+                "duration": "REGULAR",
+                "fullTime": {
+                    "home": null,
+                    "away": null
+                },
+                "halfTime": {
+                    "home": null,
+                    "away": null
+                }
+            },
+            "odds": {
+                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+            },
+            "referees": []
+        },
+        {
+            "area": {
+                "id": 2081,
+                "name": "France",
+                "code": "FRA",
+                "flag": "https://crests.football-data.org/773.svg"
+            },
+            "competition": {
+                "id": 2015,
+                "name": "Ligue 1",
+                "code": "FL1",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/FL1.png"
+            },
+            "season": {
+                "id": 2290,
+                "startDate": "2024-08-18",
+                "endDate": "2025-05-18",
+                "currentMatchday": 14,
+                "winner": null
+            },
+            "id": 498089,
+            "utcDate": "2025-01-04T16:00:00Z",
+            "status": "TIMED",
+            "matchday": 16,
+            "stage": "REGULAR_SEASON",
+            "group": null,
+            "lastUpdated": "2024-12-03T15:21:10Z",
+            "homeTeam": {
+                "id": 527,
+                "name": "AS Saint-\u00c9tienne",
+                "shortName": "Saint-\u00c9tienne",
+                "tla": "ASS",
+                "crest": "https://crests.football-data.org/527.png"
+            },
+            "awayTeam": {
+                "id": 547,
+                "name": "Stade de Reims",
+                "shortName": "Stade de Reims",
+                "tla": "SDR",
+                "crest": "https://crests.football-data.org/547.png"
+            },
+            "score": {
+                "winner": null,
+                "duration": "REGULAR",
+                "fullTime": {
+                    "home": null,
+                    "away": null
+                },
+                "halfTime": {
+                    "home": null,
+                    "away": null
+                }
+            },
+            "odds": {
+                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+            },
+            "referees": []
+        },
+        {
+            "area": {
+                "id": 2081,
+                "name": "France",
+                "code": "FRA",
+                "flag": "https://crests.football-data.org/773.svg"
+            },
+            "competition": {
+                "id": 2015,
+                "name": "Ligue 1",
+                "code": "FL1",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/FL1.png"
+            },
+            "season": {
+                "id": 2290,
+                "startDate": "2024-08-18",
+                "endDate": "2025-05-18",
+                "currentMatchday": 14,
+                "winner": null
+            },
+            "id": 498102,
+            "utcDate": "2025-01-12T00:00:00Z",
+            "status": "SCHEDULED",
+            "matchday": 17,
+            "stage": "REGULAR_SEASON",
+            "group": null,
+            "lastUpdated": "2024-08-30T05:21:19Z",
+            "homeTeam": {
+                "id": 524,
+                "name": "Paris Saint-Germain FC",
+                "shortName": "PSG",
+                "tla": "PSG",
+                "crest": "https://crests.football-data.org/524.png"
+            },
+            "awayTeam": {
+                "id": 527,
+                "name": "AS Saint-\u00c9tienne",
+                "shortName": "Saint-\u00c9tienne",
+                "tla": "ASS",
+                "crest": "https://crests.football-data.org/527.png"
+            },
+            "score": {
+                "winner": null,
+                "duration": "REGULAR",
+                "fullTime": {
+                    "home": null,
+                    "away": null
+                },
+                "halfTime": {
+                    "home": null,
+                    "away": null
+                }
+            },
+            "odds": {
+                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+            },
+            "referees": []
+        },
+        {
+            "area": {
+                "id": 2081,
+                "name": "France",
+                "code": "FRA",
+                "flag": "https://crests.football-data.org/773.svg"
+            },
+            "competition": {
+                "id": 2015,
+                "name": "Ligue 1",
+                "code": "FL1",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/FL1.png"
+            },
+            "season": {
+                "id": 2290,
+                "startDate": "2024-08-18",
+                "endDate": "2025-05-18",
+                "currentMatchday": 14,
+                "winner": null
+            },
+            "id": 498108,
+            "utcDate": "2025-01-19T00:00:00Z",
+            "status": "SCHEDULED",
+            "matchday": 18,
+            "stage": "REGULAR_SEASON",
+            "group": null,
+            "lastUpdated": "2024-06-27T11:04:20Z",
+            "homeTeam": {
+                "id": 527,
+                "name": "AS Saint-\u00c9tienne",
+                "shortName": "Saint-\u00c9tienne",
+                "tla": "ASS",
+                "crest": "https://crests.football-data.org/527.png"
+            },
+            "awayTeam": {
+                "id": 543,
+                "name": "FC Nantes",
+                "shortName": "Nantes",
+                "tla": "NAN",
+                "crest": "https://crests.football-data.org/543.png"
+            },
+            "score": {
+                "winner": null,
+                "duration": "REGULAR",
+                "fullTime": {
+                    "home": null,
+                    "away": null
+                },
+                "halfTime": {
+                    "home": null,
+                    "away": null
+                }
+            },
+            "odds": {
+                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+            },
+            "referees": []
+        },
+        {
+            "area": {
+                "id": 2081,
+                "name": "France",
+                "code": "FRA",
+                "flag": "https://crests.football-data.org/773.svg"
+            },
+            "competition": {
+                "id": 2015,
+                "name": "Ligue 1",
+                "code": "FL1",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/FL1.png"
+            },
+            "season": {
+                "id": 2290,
+                "startDate": "2024-08-18",
+                "endDate": "2025-05-18",
+                "currentMatchday": 14,
+                "winner": null
+            },
+            "id": 498118,
+            "utcDate": "2025-01-26T00:00:00Z",
+            "status": "SCHEDULED",
+            "matchday": 19,
+            "stage": "REGULAR_SEASON",
+            "group": null,
+            "lastUpdated": "2024-06-27T11:04:19Z",
+            "homeTeam": {
+                "id": 519,
+                "name": "AJ Auxerre",
+                "shortName": "Auxerre",
+                "tla": "AJA",
+                "crest": "https://crests.football-data.org/519.png"
+            },
+            "awayTeam": {
+                "id": 527,
+                "name": "AS Saint-\u00c9tienne",
+                "shortName": "Saint-\u00c9tienne",
+                "tla": "ASS",
+                "crest": "https://crests.football-data.org/527.png"
+            },
+            "score": {
+                "winner": null,
+                "duration": "REGULAR",
+                "fullTime": {
+                    "home": null,
+                    "away": null
+                },
+                "halfTime": {
+                    "home": null,
+                    "away": null
+                }
+            },
+            "odds": {
+                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+            },
+            "referees": []
+        },
+        {
+            "area": {
+                "id": 2081,
+                "name": "France",
+                "code": "FRA",
+                "flag": "https://crests.football-data.org/773.svg"
+            },
+            "competition": {
+                "id": 2015,
+                "name": "Ligue 1",
+                "code": "FL1",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/FL1.png"
+            },
+            "season": {
+                "id": 2290,
+                "startDate": "2024-08-18",
+                "endDate": "2025-05-18",
+                "currentMatchday": 14,
+                "winner": null
+            },
+            "id": 498125,
+            "utcDate": "2025-02-02T00:00:00Z",
+            "status": "SCHEDULED",
+            "matchday": 20,
+            "stage": "REGULAR_SEASON",
+            "group": null,
+            "lastUpdated": "2024-06-27T11:04:19Z",
+            "homeTeam": {
+                "id": 521,
+                "name": "Lille OSC",
+                "shortName": "Lille",
+                "tla": "LIL",
+                "crest": "https://crests.football-data.org/521.png"
+            },
+            "awayTeam": {
+                "id": 527,
+                "name": "AS Saint-\u00c9tienne",
+                "shortName": "Saint-\u00c9tienne",
+                "tla": "ASS",
+                "crest": "https://crests.football-data.org/527.png"
+            },
+            "score": {
+                "winner": null,
+                "duration": "REGULAR",
+                "fullTime": {
+                    "home": null,
+                    "away": null
+                },
+                "halfTime": {
+                    "home": null,
+                    "away": null
+                }
+            },
+            "odds": {
+                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+            },
+            "referees": []
+        },
+        {
+            "area": {
+                "id": 2081,
+                "name": "France",
+                "code": "FRA",
+                "flag": "https://crests.football-data.org/773.svg"
+            },
+            "competition": {
+                "id": 2015,
+                "name": "Ligue 1",
+                "code": "FL1",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/FL1.png"
+            },
+            "season": {
+                "id": 2290,
+                "startDate": "2024-08-18",
+                "endDate": "2025-05-18",
+                "currentMatchday": 14,
+                "winner": null
+            },
+            "id": 498135,
+            "utcDate": "2025-02-09T00:00:00Z",
+            "status": "SCHEDULED",
+            "matchday": 21,
+            "stage": "REGULAR_SEASON",
+            "group": null,
+            "lastUpdated": "2024-06-27T11:04:18Z",
+            "homeTeam": {
+                "id": 527,
+                "name": "AS Saint-\u00c9tienne",
+                "shortName": "Saint-\u00c9tienne",
+                "tla": "ASS",
+                "crest": "https://crests.football-data.org/527.png"
+            },
+            "awayTeam": {
+                "id": 529,
+                "name": "Stade Rennais FC 1901",
+                "shortName": "Stade Rennais",
+                "tla": "REN",
+                "crest": "https://crests.football-data.org/529.png"
+            },
+            "score": {
+                "winner": null,
+                "duration": "REGULAR",
+                "fullTime": {
+                    "home": null,
+                    "away": null
+                },
+                "halfTime": {
+                    "home": null,
+                    "away": null
+                }
+            },
+            "odds": {
+                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+            },
+            "referees": []
+        },
+        {
+            "area": {
+                "id": 2081,
+                "name": "France",
+                "code": "FRA",
+                "flag": "https://crests.football-data.org/773.svg"
+            },
+            "competition": {
+                "id": 2015,
+                "name": "Ligue 1",
+                "code": "FL1",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/FL1.png"
+            },
+            "season": {
+                "id": 2290,
+                "startDate": "2024-08-18",
+                "endDate": "2025-05-18",
+                "currentMatchday": 14,
+                "winner": null
+            },
+            "id": 498141,
+            "utcDate": "2025-02-16T00:00:00Z",
+            "status": "SCHEDULED",
+            "matchday": 22,
+            "stage": "REGULAR_SEASON",
+            "group": null,
+            "lastUpdated": "2024-06-27T11:04:18Z",
+            "homeTeam": {
+                "id": 516,
+                "name": "Olympique de Marseille",
+                "shortName": "Marseille",
+                "tla": "MAR",
+                "crest": "https://crests.football-data.org/516.png"
+            },
+            "awayTeam": {
+                "id": 527,
+                "name": "AS Saint-\u00c9tienne",
+                "shortName": "Saint-\u00c9tienne",
+                "tla": "ASS",
+                "crest": "https://crests.football-data.org/527.png"
+            },
+            "score": {
+                "winner": null,
+                "duration": "REGULAR",
+                "fullTime": {
+                    "home": null,
+                    "away": null
+                },
+                "halfTime": {
+                    "home": null,
+                    "away": null
+                }
+            },
+            "odds": {
+                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+            },
+            "referees": []
+        },
+        {
+            "area": {
+                "id": 2081,
+                "name": "France",
+                "code": "FRA",
+                "flag": "https://crests.football-data.org/773.svg"
+            },
+            "competition": {
+                "id": 2015,
+                "name": "Ligue 1",
+                "code": "FL1",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/FL1.png"
+            },
+            "season": {
+                "id": 2290,
+                "startDate": "2024-08-18",
+                "endDate": "2025-05-18",
+                "currentMatchday": 14,
+                "winner": null
+            },
+            "id": 498154,
+            "utcDate": "2025-02-23T00:00:00Z",
+            "status": "SCHEDULED",
+            "matchday": 23,
+            "stage": "REGULAR_SEASON",
+            "group": null,
+            "lastUpdated": "2024-06-27T11:04:17Z",
+            "homeTeam": {
+                "id": 527,
+                "name": "AS Saint-\u00c9tienne",
+                "shortName": "Saint-\u00c9tienne",
+                "tla": "ASS",
+                "crest": "https://crests.football-data.org/527.png"
+            },
+            "awayTeam": {
+                "id": 532,
+                "name": "Angers SCO",
+                "shortName": "Angers SCO",
+                "tla": "ANG",
+                "crest": "https://crests.football-data.org/532.png"
+            },
+            "score": {
+                "winner": null,
+                "duration": "REGULAR",
+                "fullTime": {
+                    "home": null,
+                    "away": null
+                },
+                "halfTime": {
+                    "home": null,
+                    "away": null
+                }
+            },
+            "odds": {
+                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+            },
+            "referees": []
+        },
+        {
+            "area": {
+                "id": 2081,
+                "name": "France",
+                "code": "FRA",
+                "flag": "https://crests.football-data.org/773.svg"
+            },
+            "competition": {
+                "id": 2015,
+                "name": "Ligue 1",
+                "code": "FL1",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/FL1.png"
+            },
+            "season": {
+                "id": 2290,
+                "startDate": "2024-08-18",
+                "endDate": "2025-05-18",
+                "currentMatchday": 14,
+                "winner": null
+            },
+            "id": 498162,
+            "utcDate": "2025-03-02T00:00:00Z",
+            "status": "SCHEDULED",
+            "matchday": 24,
+            "stage": "REGULAR_SEASON",
+            "group": null,
+            "lastUpdated": "2024-06-27T11:04:17Z",
+            "homeTeam": {
+                "id": 527,
+                "name": "AS Saint-\u00c9tienne",
+                "shortName": "Saint-\u00c9tienne",
+                "tla": "ASS",
+                "crest": "https://crests.football-data.org/527.png"
+            },
+            "awayTeam": {
+                "id": 522,
+                "name": "OGC Nice",
+                "shortName": "Nice",
+                "tla": "NIC",
+                "crest": "https://crests.football-data.org/522.png"
+            },
+            "score": {
+                "winner": null,
+                "duration": "REGULAR",
+                "fullTime": {
+                    "home": null,
+                    "away": null
+                },
+                "halfTime": {
+                    "home": null,
+                    "away": null
+                }
+            },
+            "odds": {
+                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+            },
+            "referees": []
+        },
+        {
+            "area": {
+                "id": 2081,
+                "name": "France",
+                "code": "FRA",
+                "flag": "https://crests.football-data.org/773.svg"
+            },
+            "competition": {
+                "id": 2015,
+                "name": "Ligue 1",
+                "code": "FL1",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/FL1.png"
+            },
+            "season": {
+                "id": 2290,
+                "startDate": "2024-08-18",
+                "endDate": "2025-05-18",
+                "currentMatchday": 14,
+                "winner": null
+            },
+            "id": 498167,
+            "utcDate": "2025-03-09T00:00:00Z",
+            "status": "SCHEDULED",
+            "matchday": 25,
+            "stage": "REGULAR_SEASON",
+            "group": null,
+            "lastUpdated": "2024-06-27T11:04:16Z",
+            "homeTeam": {
+                "id": 533,
+                "name": "Le Havre AC",
+                "shortName": "Le Havre",
+                "tla": "HAC",
+                "crest": "https://crests.football-data.org/533.png"
+            },
+            "awayTeam": {
+                "id": 527,
+                "name": "AS Saint-\u00c9tienne",
+                "shortName": "Saint-\u00c9tienne",
+                "tla": "ASS",
+                "crest": "https://crests.football-data.org/527.png"
+            },
+            "score": {
+                "winner": null,
+                "duration": "REGULAR",
+                "fullTime": {
+                    "home": null,
+                    "away": null
+                },
+                "halfTime": {
+                    "home": null,
+                    "away": null
+                }
+            },
+            "odds": {
+                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+            },
+            "referees": []
+        },
+        {
+            "area": {
+                "id": 2081,
+                "name": "France",
+                "code": "FRA",
+                "flag": "https://crests.football-data.org/773.svg"
+            },
+            "competition": {
+                "id": 2015,
+                "name": "Ligue 1",
+                "code": "FL1",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/FL1.png"
+            },
+            "season": {
+                "id": 2290,
+                "startDate": "2024-08-18",
+                "endDate": "2025-05-18",
+                "currentMatchday": 14,
+                "winner": null
+            },
+            "id": 498178,
+            "utcDate": "2025-03-16T00:00:00Z",
+            "status": "SCHEDULED",
+            "matchday": 26,
+            "stage": "REGULAR_SEASON",
+            "group": null,
+            "lastUpdated": "2024-06-27T11:04:15Z",
+            "homeTeam": {
+                "id": 518,
+                "name": "Montpellier HSC",
+                "shortName": "Montpellier",
+                "tla": "MON",
+                "crest": "https://crests.football-data.org/518.png"
+            },
+            "awayTeam": {
+                "id": 527,
+                "name": "AS Saint-\u00c9tienne",
+                "shortName": "Saint-\u00c9tienne",
+                "tla": "ASS",
+                "crest": "https://crests.football-data.org/527.png"
+            },
+            "score": {
+                "winner": null,
+                "duration": "REGULAR",
+                "fullTime": {
+                    "home": null,
+                    "away": null
+                },
+                "halfTime": {
+                    "home": null,
+                    "away": null
+                }
+            },
+            "odds": {
+                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+            },
+            "referees": []
+        },
+        {
+            "area": {
+                "id": 2081,
+                "name": "France",
+                "code": "FRA",
+                "flag": "https://crests.football-data.org/773.svg"
+            },
+            "competition": {
+                "id": 2015,
+                "name": "Ligue 1",
+                "code": "FL1",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/FL1.png"
+            },
+            "season": {
+                "id": 2290,
+                "startDate": "2024-08-18",
+                "endDate": "2025-05-18",
+                "currentMatchday": 14,
+                "winner": null
+            },
+            "id": 498190,
+            "utcDate": "2025-03-30T00:00:00Z",
+            "status": "SCHEDULED",
+            "matchday": 27,
+            "stage": "REGULAR_SEASON",
+            "group": null,
+            "lastUpdated": "2024-08-30T05:21:19Z",
+            "homeTeam": {
+                "id": 527,
+                "name": "AS Saint-\u00c9tienne",
+                "shortName": "Saint-\u00c9tienne",
+                "tla": "ASS",
+                "crest": "https://crests.football-data.org/527.png"
+            },
+            "awayTeam": {
+                "id": 524,
+                "name": "Paris Saint-Germain FC",
+                "shortName": "PSG",
+                "tla": "PSG",
+                "crest": "https://crests.football-data.org/524.png"
+            },
+            "score": {
+                "winner": null,
+                "duration": "REGULAR",
+                "fullTime": {
+                    "home": null,
+                    "away": null
+                },
+                "halfTime": {
+                    "home": null,
+                    "away": null
+                }
+            },
+            "odds": {
+                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+            },
+            "referees": []
+        },
+        {
+            "area": {
+                "id": 2081,
+                "name": "France",
+                "code": "FRA",
+                "flag": "https://crests.football-data.org/773.svg"
+            },
+            "competition": {
+                "id": 2015,
+                "name": "Ligue 1",
+                "code": "FL1",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/FL1.png"
+            },
+            "season": {
+                "id": 2290,
+                "startDate": "2024-08-18",
+                "endDate": "2025-05-18",
+                "currentMatchday": 14,
+                "winner": null
+            },
+            "id": 498199,
+            "utcDate": "2025-04-06T00:00:00Z",
+            "status": "SCHEDULED",
+            "matchday": 28,
+            "stage": "REGULAR_SEASON",
+            "group": null,
+            "lastUpdated": "2024-06-27T11:04:14Z",
+            "homeTeam": {
+                "id": 546,
+                "name": "Racing Club de Lens",
+                "shortName": "RC Lens",
+                "tla": "RCL",
+                "crest": "https://crests.football-data.org/546.png"
+            },
+            "awayTeam": {
+                "id": 527,
+                "name": "AS Saint-\u00c9tienne",
+                "shortName": "Saint-\u00c9tienne",
+                "tla": "ASS",
+                "crest": "https://crests.football-data.org/527.png"
+            },
+            "score": {
+                "winner": null,
+                "duration": "REGULAR",
+                "fullTime": {
+                    "home": null,
+                    "away": null
+                },
+                "halfTime": {
+                    "home": null,
+                    "away": null
+                }
+            },
+            "odds": {
+                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+            },
+            "referees": []
+        },
+        {
+            "area": {
+                "id": 2081,
+                "name": "France",
+                "code": "FRA",
+                "flag": "https://crests.football-data.org/773.svg"
+            },
+            "competition": {
+                "id": 2015,
+                "name": "Ligue 1",
+                "code": "FL1",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/FL1.png"
+            },
+            "season": {
+                "id": 2290,
+                "startDate": "2024-08-18",
+                "endDate": "2025-05-18",
+                "currentMatchday": 14,
+                "winner": null
+            },
+            "id": 498208,
+            "utcDate": "2025-04-13T00:00:00Z",
+            "status": "SCHEDULED",
+            "matchday": 29,
+            "stage": "REGULAR_SEASON",
+            "group": null,
+            "lastUpdated": "2024-06-27T11:04:13Z",
+            "homeTeam": {
+                "id": 527,
+                "name": "AS Saint-\u00c9tienne",
+                "shortName": "Saint-\u00c9tienne",
+                "tla": "ASS",
+                "crest": "https://crests.football-data.org/527.png"
+            },
+            "awayTeam": {
+                "id": 512,
+                "name": "Stade Brestois 29",
+                "shortName": "Brest",
+                "tla": "BRE",
+                "crest": "https://crests.football-data.org/512.png"
+            },
+            "score": {
+                "winner": null,
+                "duration": "REGULAR",
+                "fullTime": {
+                    "home": null,
+                    "away": null
+                },
+                "halfTime": {
+                    "home": null,
+                    "away": null
+                }
+            },
+            "odds": {
+                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+            },
+            "referees": []
+        },
+        {
+            "area": {
+                "id": 2081,
+                "name": "France",
+                "code": "FRA",
+                "flag": "https://crests.football-data.org/773.svg"
+            },
+            "competition": {
+                "id": 2015,
+                "name": "Ligue 1",
+                "code": "FL1",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/FL1.png"
+            },
+            "season": {
+                "id": 2290,
+                "startDate": "2024-08-18",
+                "endDate": "2025-05-18",
+                "currentMatchday": 14,
+                "winner": null
+            },
+            "id": 498212,
+            "utcDate": "2025-04-20T00:00:00Z",
+            "status": "SCHEDULED",
+            "matchday": 30,
+            "stage": "REGULAR_SEASON",
+            "group": null,
+            "lastUpdated": "2024-06-27T11:04:13Z",
+            "homeTeam": {
+                "id": 527,
+                "name": "AS Saint-\u00c9tienne",
+                "shortName": "Saint-\u00c9tienne",
+                "tla": "ASS",
+                "crest": "https://crests.football-data.org/527.png"
+            },
+            "awayTeam": {
+                "id": 523,
+                "name": "Olympique Lyonnais",
+                "shortName": "Olympique Lyon",
+                "tla": "LYO",
+                "crest": "https://crests.football-data.org/523.png"
+            },
+            "score": {
+                "winner": null,
+                "duration": "REGULAR",
+                "fullTime": {
+                    "home": null,
+                    "away": null
+                },
+                "halfTime": {
+                    "home": null,
+                    "away": null
+                }
+            },
+            "odds": {
+                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+            },
+            "referees": []
+        },
+        {
+            "area": {
+                "id": 2081,
+                "name": "France",
+                "code": "FRA",
+                "flag": "https://crests.football-data.org/773.svg"
+            },
+            "competition": {
+                "id": 2015,
+                "name": "Ligue 1",
+                "code": "FL1",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/FL1.png"
+            },
+            "season": {
+                "id": 2290,
+                "startDate": "2024-08-18",
+                "endDate": "2025-05-18",
+                "currentMatchday": 14,
+                "winner": null
+            },
+            "id": 498222,
+            "utcDate": "2025-04-27T00:00:00Z",
+            "status": "SCHEDULED",
+            "matchday": 31,
+            "stage": "REGULAR_SEASON",
+            "group": null,
+            "lastUpdated": "2024-06-27T11:04:13Z",
+            "homeTeam": {
+                "id": 576,
+                "name": "RC Strasbourg Alsace",
+                "shortName": "Strasbourg",
+                "tla": "RC ",
+                "crest": "https://crests.football-data.org/576.png"
+            },
+            "awayTeam": {
+                "id": 527,
+                "name": "AS Saint-\u00c9tienne",
+                "shortName": "Saint-\u00c9tienne",
+                "tla": "ASS",
+                "crest": "https://crests.football-data.org/527.png"
+            },
+            "score": {
+                "winner": null,
+                "duration": "REGULAR",
+                "fullTime": {
+                    "home": null,
+                    "away": null
+                },
+                "halfTime": {
+                    "home": null,
+                    "away": null
+                }
+            },
+            "odds": {
+                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+            },
+            "referees": []
+        },
+        {
+            "area": {
+                "id": 2081,
+                "name": "France",
+                "code": "FRA",
+                "flag": "https://crests.football-data.org/773.svg"
+            },
+            "competition": {
+                "id": 2015,
+                "name": "Ligue 1",
+                "code": "FL1",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/FL1.png"
+            },
+            "season": {
+                "id": 2290,
+                "startDate": "2024-08-18",
+                "endDate": "2025-05-18",
+                "currentMatchday": 14,
+                "winner": null
+            },
+            "id": 498234,
+            "utcDate": "2025-05-04T00:00:00Z",
+            "status": "SCHEDULED",
+            "matchday": 32,
+            "stage": "REGULAR_SEASON",
+            "group": null,
+            "lastUpdated": "2024-06-27T11:04:12Z",
+            "homeTeam": {
+                "id": 527,
+                "name": "AS Saint-\u00c9tienne",
+                "shortName": "Saint-\u00c9tienne",
+                "tla": "ASS",
+                "crest": "https://crests.football-data.org/527.png"
+            },
+            "awayTeam": {
+                "id": 548,
+                "name": "AS Monaco FC",
+                "shortName": "Monaco",
+                "tla": "ASM",
+                "crest": "https://crests.football-data.org/548.png"
+            },
+            "score": {
+                "winner": null,
+                "duration": "REGULAR",
+                "fullTime": {
+                    "home": null,
+                    "away": null
+                },
+                "halfTime": {
+                    "home": null,
+                    "away": null
+                }
+            },
+            "odds": {
+                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+            },
+            "referees": []
+        },
+        {
+            "area": {
+                "id": 2081,
+                "name": "France",
+                "code": "FRA",
+                "flag": "https://crests.football-data.org/773.svg"
+            },
+            "competition": {
+                "id": 2015,
+                "name": "Ligue 1",
+                "code": "FL1",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/FL1.png"
+            },
+            "season": {
+                "id": 2290,
+                "startDate": "2024-08-18",
+                "endDate": "2025-05-18",
+                "currentMatchday": 14,
+                "winner": null
+            },
+            "id": 498239,
+            "utcDate": "2025-05-11T00:00:00Z",
+            "status": "SCHEDULED",
+            "matchday": 33,
+            "stage": "REGULAR_SEASON",
+            "group": null,
+            "lastUpdated": "2024-06-27T11:04:12Z",
+            "homeTeam": {
+                "id": 547,
+                "name": "Stade de Reims",
+                "shortName": "Stade de Reims",
+                "tla": "SDR",
+                "crest": "https://crests.football-data.org/547.png"
+            },
+            "awayTeam": {
+                "id": 527,
+                "name": "AS Saint-\u00c9tienne",
+                "shortName": "Saint-\u00c9tienne",
+                "tla": "ASS",
+                "crest": "https://crests.football-data.org/527.png"
+            },
+            "score": {
+                "winner": null,
+                "duration": "REGULAR",
+                "fullTime": {
+                    "home": null,
+                    "away": null
+                },
+                "halfTime": {
+                    "home": null,
+                    "away": null
+                }
+            },
+            "odds": {
+                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+            },
+            "referees": []
+        },
+        {
+            "area": {
+                "id": 2081,
+                "name": "France",
+                "code": "FRA",
+                "flag": "https://crests.football-data.org/773.svg"
+            },
+            "competition": {
+                "id": 2015,
+                "name": "Ligue 1",
+                "code": "FL1",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/FL1.png"
+            },
+            "season": {
+                "id": 2290,
+                "startDate": "2024-08-18",
+                "endDate": "2025-05-18",
+                "currentMatchday": 14,
+                "winner": null
+            },
+            "id": 498251,
+            "utcDate": "2025-05-18T00:00:00Z",
+            "status": "SCHEDULED",
+            "matchday": 34,
+            "stage": "REGULAR_SEASON",
+            "group": null,
+            "lastUpdated": "2024-06-27T11:04:11Z",
+            "homeTeam": {
+                "id": 527,
+                "name": "AS Saint-\u00c9tienne",
+                "shortName": "Saint-\u00c9tienne",
+                "tla": "ASS",
+                "crest": "https://crests.football-data.org/527.png"
+            },
+            "awayTeam": {
+                "id": 511,
+                "name": "Toulouse FC",
+                "shortName": "Toulouse",
+                "tla": "TOU",
+                "crest": "https://crests.football-data.org/511.png"
+            },
+            "score": {
+                "winner": null,
+                "duration": "REGULAR",
+                "fullTime": {
+                    "home": null,
+                    "away": null
+                },
+                "halfTime": {
+                    "home": null,
+                    "away": null
+                }
+            },
+            "odds": {
+                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+            },
+            "referees": []
+        }
+    ]
+}
