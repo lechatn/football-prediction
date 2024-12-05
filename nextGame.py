@@ -1,12 +1,69 @@
 from InitJson import returnclubs
 from InitJson import updateData
+import json
 
-def nextGamePrediction(myTeam, Team):
-    #checkseasonGoalTaked(homeTeam)
-    #checkseasonGoalTaked(awayTeam)
-    #checkseasonGoalScored(homeTeam)
-    #checkseasonGoalScored(awayTeam)
+def nextGamePrediction(Hometeam, Awayteam):
+    averageGoalHomeTeam= averagegoal(Hometeam)
+    print("averageGoalHomeTeam = ",averageGoalHomeTeam)
+    averageGoalAwayTeam= averagegoal(Awayteam)
+    print("averageGoalAwayTeam = ",averageGoalAwayTeam)
+    averageGoalAtHome= averagegoalAtHome(Hometeam)
+    print("averageGoalAtHome = ",averageGoalAtHome)
+    averageGoalAway= averagegoalAway(Awayteam)
+    #homeTeamStandings = standings(Hometeam)
+    #awayTeamStandings = standings(Awayteam)
+
     return 
+
+
+def averagegoal(team):
+    print("team = ",team)
+    with open(f"./ressources/standings.json", "r") as f:
+        data = json.load(f)
+    goals = 0
+    played_games = 0
+    for clubs in data["standings"][0]["table"]:
+        if clubs["team"]["name"] == team:
+            goals = clubs["goalsFor"]
+            played_games = clubs["playedGames"]
+            break
+    return goals/played_games
+
+
+def averagegoalAtHome(team):
+    print("team = ",team)
+    with open(f"./ressources/{team}.json", "r") as f:
+        data = json.load(f)
+    goals = 0
+    played_games = 0
+    for match in data["matches"]:
+        if match["homeTeam"]["name"] == team and match["score"]["fullTime"]["home"] != None and match["competition"]["name"] == "Ligue 1":
+            goals += match["score"]["fullTime"]["home"]
+            played_games += 1
+    return goals/played_games
+
+def averagegoalAway(team):
+    print("team = ",team)
+    with open(f"./ressources/{team}.json", "r") as f:
+        data = json.load(f)
+    goals = 0
+    played_games = 0
+    for match in data["matches"]:
+        if match["awayTeam"]["name"] == team and match["score"]["fullTime"]["away"] != None and match["competition"]["name"] == "Ligue 1":
+            goals += match["score"]["fullTime"]["away"]
+            played_games += 1
+    return goals/played_games
+
+
+
+
+
+
+
+
+
+
+
 
 def askUpdate():
     print("Do you want to update the data? (y/n)")

@@ -14,5 +14,6 @@ from nextGame import nextGamePrediction, selectTeam, askUpdate
 askUpdate()
 homeTeam = selectTeam()
 awayTeam = selectTeam(homeTeam)
-print("vosua allez etudié le match entre", homeTeam, "et", awayTeam)
+nextGamePrediction(homeTeam, awayTeam)
+
 
